@@ -1,0 +1,13 @@
+{
+  "root": "template",
+  "placeholders": {
+    "app-hyphen-name": "name.hyphen",
+    "appCamelName": "name.camel",
+    "AppPascalName": "name.pascal",
+    "app_snake_name": "name.snake",
+    "0.0.0-version": "version",
+    "^_gitignore$": ".gitignore"
+  },
+  "exclude": [ ".gitkeep" ],
+  "commitMessage": "feat: init standard project"
+}

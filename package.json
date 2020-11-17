@@ -1,0 +1,9 @@
+{
+  "name": "@cookiex/standard-template",
+  "version": "0.0.0",
+  "description": "Standard project template",
+  "main": "index.js",
+  "repository": "https://github.com/dev-cookiex/standard-template.git",
+  "author": "Tony Tsx <tony.js@zoho.eu>",
+  "license": "MIT"
+}
