@@ -1,6 +1,6 @@
 {
   "name": "@cookiex/standard-template",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Standard project template",
   "main": "index.js",
   "repository": "https://github.com/dev-cookiex/standard-template.git",
